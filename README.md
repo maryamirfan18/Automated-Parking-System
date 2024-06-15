@@ -11,7 +11,7 @@ The code will cover:<br />
 •Real time availibilty of the parking slots would be displayed.<br />
 •Charges of parking would be calculated according to the rate fixed per hour by the code itself.<br />
 •Time for which the car was parked would be noted and then the charges would be calculated.<br />
-•When a car exits the slot would automatically be free to accomodate another vehicle# Automated-Parking-System<br />
+•When a car exits the slot would automatically be free to accomodate another vehicle<br />
 
 # UML Diagram
 ![image](https://github.com/maryamirfan18/Automated-Parking-System/assets/98476593/b5030782-ab0d-4414-8802-b5a25f5f63e2)
